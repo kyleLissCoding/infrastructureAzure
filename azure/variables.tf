@@ -4,7 +4,7 @@ variable app_name {
 }
 
 variable location {
-  default = "eastus"
+  default = "westus"
 }
 
 variable kubernetes_version {
